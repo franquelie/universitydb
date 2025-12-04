@@ -1,0 +1,63 @@
+.body-home {
+	background-color: #492926;
+}
+.custom-navbar-bg {
+	background-color: #8D0F0F;
+}
+.logo-text {
+	color: white;
+	text-align: left;
+	font-size: 15px;
+	font-weight: bold;
+}
+.title {
+	color: white;
+	font-size: 18px;
+	font-weight: bold;
+}
+.image-container {
+	position: relative;
+}
+.overlay-text {
+	position: absolute;
+	top: 0;
+	bottom: 0;
+	color: white;
+
+	justify-content: center;
+	padding: 2rem;
+}
+.overlay-text h2 {
+	color: gold;
+	font-size: 30px;
+}
+.custom-button {
+	background-color: blue;
+	color: white;
+	padding: 0px 10px;
+	margin-bottom: 20px;
+}
+.custom-signin-button {
+	margin-top: 5px;
+	background-color: #8D0F0F;
+	color: white;
+	padding: 0px 15px;
+	border-radius: 5px;
+}
+#inquiry form {
+	max-width: 500px;
+	width: 85%;
+	background: rgba(200,200,200,0.8);
+	padding: 30px;
+}
+.login {
+	max-width: 400px;
+	width: 90%;
+	padding: 30px;
+}
+.login h3 {
+	color: #8D0F0F;
+	text-align: center;
+	font-size: 30px;
+	margin-bottom: 20px;
+}
